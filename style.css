@@ -4,8 +4,9 @@ h1 {
     font-style: normal;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
-h1 span {color:aqua;
-        padding:0%}
+h1 span {
+    color:aqua;
+    padding:0%}
 
 h2{
     background-color: purple;
@@ -14,7 +15,8 @@ h2{
     font-family: sans-serif;
     font-style: italic;
 }
-h3 {background-color: skyblue;
+h3 {
+    background-color: skyblue;
     color: purple;
     text-align: right;
     text-decoration: underline;
